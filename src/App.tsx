@@ -7,14 +7,14 @@ import Navbar from './components/navbar/Navbar'
 import Home from './pages/home/Home'
 import Login from './pages/login/Login'
 import Cadastro from './pages/cadastro/Cadastro'
-import FormTema from './components/temas/formtema/FormTema'
-import DeletarTema from './components/temas/deletartema/DeletarTema'
+import FormTema from './components/tema/formtema/FormTema'
+import DeletarTema from './components/tema/deletartema/DeletarTema'
 import ListaPostagens from './components/postagens/listapostagens/ListaPostagens'
 import FormPostagem from './components/postagens/formpostagem/FormPostagem'
 import DeletarPostagem from './components/postagens/deletarpostagem/DeletarPostagem'
 import Perfil from './pages/perfil/Perfil'
 import 'react-toastify/dist/ReactToastify.css';
-import ListaTemas from './components/temas/listatemas/ListaTemas'
+import ListaTemas from './components/tema/listatemas/ListaTema'
 
 function App() {
   return (
