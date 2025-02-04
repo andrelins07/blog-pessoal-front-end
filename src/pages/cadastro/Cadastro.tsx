@@ -4,7 +4,7 @@ import Usuario from '../../models/Usuario'
 import { cadastrarUsuario } from '../../services/Service'
 import { RotatingLines } from 'react-loader-spinner'
 import { ToastAlerta } from '../../utils/ToastAlerta'
-import './Cadastro.css'
+import '../cadastro/Cadastro.css'
 
 function Cadastro() {
 
